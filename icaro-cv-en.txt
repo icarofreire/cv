@@ -1,0 +1,65 @@
+﻿{{
+Utilizar um Markdown to HTML converter;
+* https://codebeautify.org/markdown-to-html
+* https://www.browserling.com/tools/markdown-to-html
+* https://dillinger.io/
+}}
+------------------------------------------------------------------------
+
+
+## Ícaro Freire Martins Da Silva
+
+Brazilian, Aracaju-SE.  
+E-mail: icarofre99@gmail.com  
+Blog: http://icaroworks.blogspot.com  
+
+## Objective
+Acting in the IT area as a Programmer with a focus on Back-End software development.
+
+## Profile
+Good understanding of programming paradigms and complex data structures with full interest in back-end software development projects, and solving computational problems.
+Hobbysta programmer, and self-taught in several programming languages, processor architecture, development tools and operating systems; voluntary for any challenging task, self-motivated, and fully available to learn new technologies and development methodologies, always open to knowledge and new challenges.
+
+## Technical knowledge
+* Language C.
+* Language C++.
+* Knowledge about the Standard C++11 e C++14.
+* Common Lisp.
+* Python.
+* Ruby.
+* PHP.
+* Java.
+* JavaScript (And TypeScript).
+
+## Low Level Development
+* Assembly language software development using INTEL syntax, using assemblers such as Nasm and Yasm as a development tool.
+* Assembly language Intel 32-bit architecture (x86-32 / IA-32), Intel Syntax: 80386, 80486, 80586, 80686.
+* Assembly language Intel 64-bit architecture (x86-64 / EM64T), Intel Syntax: with the MMX, SSE, SSE2 and SSE3 instruction set.
+
+## Web Development / RESTful APIs
+* Experience in developing APIs RESTful in PHP with Laravel, Apiato.
+* Experience in developing Web/APIs RESTful in Ruby with Ruby on Rails.
+* Experience in developing APIs RESTful in Python with Flask, Flask-RESTful.
+* Experience in developing Web/APIs RESTful in Java with Spring Boot.
+
+## Databases
+* SQL language (intermediate knowledge).
+* MySQL.
+* SQLite.
+* PostgreSQL.
+
+## Version control
+* Advanced knowledge about Git version control.
+
+## Personal Activities/Hobbies
+* Use of knowledge in Reverse Engineering applied in binary  analysis (x86, x86-64).
+* Frequent learning of new algorithms - strong knowledge of data structures and algorithms.
+
+## Professional experience
+* Sergipe Informática - Web Development Service Provider, Back-End Developer of Web Systems with PHP and MySql.
+* Magikal Design - Android Development Services Provider, Back-End Developer of Android Systems written in Java Language.
+* Alfama Web - Back-End Developer of Web Systems with PHP and MySql.
+
+## Portfolio:
+* [http://icaroworks.blogspot.com](http://icaroworks.blogspot.com)
+* [https://github.com/icarofreire](https://github.com/icarofreire)

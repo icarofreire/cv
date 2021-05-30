@@ -29,6 +29,7 @@ Programador hobbysta, e autodidata em várias linguagens de programação, arqui
 * Ruby.
 * PHP.
 * Java.
+* JavaScript (E TypeScript).
 
 ## Desenvolvimento em Baixo Nível
 * Desenvolvimento de software em linguagem Assembly utilizando a sintaxe INTEL, tendo como ferramenta de desenvolvimento montadores como Nasm e Yasm.
