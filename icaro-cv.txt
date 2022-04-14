@@ -1,4 +1,4 @@
-{{
+﻿{{
 Utilizar um Markdown to HTML converter;
 * https://codebeautify.org/markdown-to-html
 * https://www.browserling.com/tools/markdown-to-html
@@ -35,6 +35,7 @@ Programador hobbysta, e autodidata em várias linguagens de programação, arqui
 * Desenvolvimento de software em linguagem Assembly utilizando a sintaxe INTEL, tendo como ferramenta de desenvolvimento montadores como Nasm e Yasm.
 * Linguagem Assembly Arquitetura Intel de 32 bits(x86-32/IA-32), Sintaxe Intel: 80386, 80486,80586, 80686.
 * Linguagem Assembly Arquitetura Intel de 64 bits(x86-64/EM64T), Sintaxe Intel: com o conjunto de instruções MMX, SSE, SSE2 e SSE3.
+* Conhecimento em análise de bytecodes Java.
 
 ## Desenvolvimento Web/APIs RESTful
 * Experiência em desenvolvimento de APIs RESTful em PHP com Laravel, Apiato.
